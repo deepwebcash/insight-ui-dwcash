@@ -1,8 +1,8 @@
 {
-  "name": "insight-ui-zcash",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the zcash network and build your own services with it.",
+  "name": "insight-ui-dwcash",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the dwcash network and build your own services with it.",
   "version": "0.4.0",
-  "repository": "git://github.com/str4d/insight-ui-zcash.git",
+  "repository": "git://github.com/deepwebcash/insight-ui-dwcash.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,23 +26,23 @@
     },
     {
       "name": "Jack Grigg",
-      "email": "jack@z.cash"
+      "email": "jack@dw.cash"
     }
   ],
   "bugs": {
-    "url": "https://github.com/str4d/insight-ui-zcash/issues"
+    "url": "https://github.com/deepwebcash/insight-ui-dwcash/issues"
   },
-  "homepage": "https://github.com/str4d/insight-ui-zcash",
+  "homepage": "https://github.com/deepwebcash/insight-ui-dwcash",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "zcash",
+    "dwcash",
     "bitcore",
     "front-end"
   ],
-  "bitcoreNode": "bitcore-node-zcash",
+  "bitcoreNode": "bitcore-node-dwcash",
   "dependencies": {
   },
   "devDependencies": {

@@ -1,6 +1,7 @@
 'use strict';
 
-var netSymbol = 'TAZ';
+var testnet = false;
+var netSymbol = testnet ? 'TWC' : 'DWC';
 
 var defaultLanguage = localStorage.getItem('insight-language') || 'en';
 var defaultCurrency = localStorage.getItem('insight-currency') || netSymbol;

@@ -22,7 +22,7 @@ msgstr "404 ページがみつかりません (´・ω・`)"
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source Zcash blockchain explorer</a> with complete REST "
+"\"_blank\">open-source DeepWebCash blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by dwcashd RPC.  "
 "Check out the <a href=\"https://github.com/deepwebcash/insight-ui-dwcash\" target=\"_blank"
@@ -74,12 +74,12 @@ msgid "Best Block"
 msgstr "最良ブロック"
 
 #: public/views/messages_verify.html
-msgid "Zcash comes with a way of signing arbitrary messages."
-msgstr "Zcashには任意のメッセージを署名する昨日が備わっています。"
+msgid "DeepWebCash comes with a way of signing arbitrary messages."
+msgstr "DeepWebCashには任意のメッセージを署名する昨日が備わっています。"
 
 #: public/views/status.html
-msgid "Zcash node information"
-msgstr "Zcashノード情報"
+msgid "DeepWebCash node information"
+msgstr "DeepWebCashノード情報"
 
 #: public/views/block.html
 msgid "Block"
@@ -213,8 +213,8 @@ msgid "Last Block"
 msgstr "直前のブロック"
 
 #: public/views/status.html
-msgid "Last Block Hash (Zcashd)"
-msgstr "直前のブロックのハッシュ値 (Zcashd)"
+msgid "Last Block Hash (DeepWebCashd)"
+msgstr "直前のブロックのハッシュ値 (DeepWebCashd)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
@@ -426,17 +426,17 @@ msgstr "このアドレスに対するトランザクションはありません
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the Zcash network."
+"        the DeepWebCash network."
 msgstr ""
-"このフォームでは、16進数フォーマットの生のトランザクションをZcashネットワー"
+"このフォームでは、16進数フォーマットの生のトランザクションをDeepWebCashネットワー"
 "ク上に配信することができます。"
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific Zcash address."
+"        a specific DeepWebCash address."
 msgstr ""
-"このフォームでは、メッセージが特定のZcashアドレスから来たかどうかを検証する"
+"このフォームでは、メッセージが特定のDeepWebCashアドレスから来たかどうかを検証する"
 "ことができます。"
 
 #: public/views/status.html
@@ -453,7 +453,7 @@ msgstr "今日"
 
 #: public/views/status.html
 msgid "Total Amount"
-msgstr "Zcash総量"
+msgstr "DeepWebCash総量"
 
 #: public/views/address.html
 msgid "Total Received"
